@@ -110,5 +110,11 @@ I look forward to building a healthy, productive partnership that respects intel
 
 ---
 
+## NDA-Templete
+
+* [NDA](https://github.com/choiizuka/Truth-Science---Source-Code-Release-Policy-and-Requirements-Definition-for-Released-Programs/blob/main/NDA-Templete.md)
+
+---
+
 (C)2026 CHOIIZUKA.
 URL:https://CHOIIZUKA.COM/
