@@ -38,15 +38,23 @@ Any code published in this repository for technical style verification must stri
 
 ---
 
-### 3. Request to Potential Partners
+### 3. Requests to Potential Partners (Evaluation & Interview Process)
 
-To properly evaluate my engineering depth and strategic thinking, I kindly ask that our technical discussions focus on the "Why" (Design and Strategy) rather than the "How" (Lines of Code):
+My engineering and planning process operates on a highly rapid, top-down inductive logic rather than traditional bottom-up technical justifications. I do not engage in lengthy biographical pitches—I provide a 1-minute self-introduction, and for all strategic decisions, I deliver immediate answers.
+My core logic for problem-solving and system architecture follows a distinct three-step paradigm:
 
-* Architectural and Strategic Discussions I welcome deep-dive discussions regarding architectural selection, high-concurrency scaling, and risk mitigation. This high-level dialogue best reflects my ability to execute and scale businesses.
-* Deep-Dive Consulting or Specific Prototyping Steps If you require technical design or logic tailored specifically to your business operations, such engagements must be preceded by a mutually signed Non-Disclosure Agreement (NDA) and an agreed-upon consulting or prototyping fee.
+   1. Macro Analysis: Synthesizing global societal shifts, market mechanics, and overarching macro trends.
+   2. Contextualization: Mapping the specific, immediate business problem onto that macro blueprint.
+   3. Execution: Automatically extracting the single most logical, optimized, and definitive solution.
+
+Therefore, standard bottom-up interviews—such as asking for granular technical justifications or specific tool selections—contradict my operational logic and fail to measure my true utility.
+Instead, I ask potential partners to present your macro-level business bottlenecks or the foundational challenges your organization currently faces.
+I will instantly reverse-engineer the solution from global trends, structure the problem, and deliver the most definitive, optimal execution strategy on the spot. This instantaneous, macro-to-micro planning process serves as the sole and absolute verification of my capabilities as an Architect and Product Manager.
 
 Thank you for your time and understanding.
 I look forward to building a healthy, productive partnership that respects intellectual property and delivers genuine value to society.
+
+🗒️Note on Language & Communication:Please note that while I operate natively in Japanese, for all international communications and English-based sessions, I utilize advanced AI translation tools in real-time to facilitate my immediate responses.
 
 ===
 
@@ -85,12 +93,17 @@ I look forward to building a healthy, productive partnership that respects intel
 
 ---
 
-### 3. パートナー企業様へのお願い
+### 3. パートナー企業様へのお願い（確認・選考のプロセスについて）
 
-当方の技術力や設計思想をご確認いただく際は、ソースコードの有無や量ではなく、以下のような「思考プロセス（Why）」を中心としたディスカッションの機会をいただけますと幸いです。
+当方との技術コミュニケーションや選考プロセスにおいては、一般的な「特定の技術の選定理由」や「コードの書き方」といったボトムアップの質疑応答ではなく、当方の基本ロジックである【マクロ分析からの即答型アプローチ】に基づいたセッションをお願いしております。
+当方は、プランニングやシステム設計において以下のプロセスを「最速」で実行します。
 
-* 設計思想の口頭試問やディスカッション、大局的な設計・戦略の視点からお話しさせていただけますと、当方の実力を最も正確にお伝えできます。
-* 具体的な提案・設計を伴うステップについて 御社のビジネスに踏み込んだ具体的なシステム設計やロジックの提示をご希望される場合は、事前に秘密保持契約（NDA）の締結、および適切なプロトタイプ開発費用のご相談を前提とさせていただけますようお願いいたします。
+   1. 社会全体の潮流・力学の俯瞰分析（マクロ）
+   2. それを前提とした対象課題の構造化（ミクロ）
+   3. 帰納法による、最も合理的な最善手の採用と即答（実行）
+
+そのため、面談やディスカッションの際は、末端の技術仕様の解説（Why）を求めるのではなく、御社が今直面している「社会的な背景」や「事業の根本的な課題」をそのままおぶつけてください。
+その場で社会の潮流から逆算し、「最も合理的な最善の選択肢」を即座に提示（即答）するプロセスをもって、当方のアーキテクト・PMとしての真の実力の証明とさせていただきます。
 
 最後までお読みいただきありがとうございました。
 お互いの知的財産と信頼関係を守りつつ、より良い価値を社会に生み出せる健全な協業を目指しております。素晴らしいパートナーシップを結べることを心より楽しみにしております。
